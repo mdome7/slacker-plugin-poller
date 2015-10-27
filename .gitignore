@@ -1,0 +1,16 @@
+*.pyc
+.project
+.classpath
+.settings
+.rvmrc
+.idea/*
+**/.cache
+**/project
+**/target
+modules/**/.gitignore
+**/*.versionsBackup
+**/.tmpBin
+*.iml
+*.swp
+*.MF
+.DS_STORE
